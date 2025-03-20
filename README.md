@@ -38,12 +38,12 @@ This project showcases:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dark-mode-website.git
+   git clone https://github.com/shubham-jaishu/Dark_Mode.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd dark-mode-website
+   cd Dark_Mode
    ```
 
 3. Open the `index.html` file in your browser:
